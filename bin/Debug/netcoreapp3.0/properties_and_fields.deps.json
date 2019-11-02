@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "properties_and_fields/1.0.0": {
+        "runtime": {
+          "properties_and_fields.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "properties_and_fields/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

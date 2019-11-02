@@ -1,0 +1,11 @@
+C:\csharp\ar\properties_and_fields\bin\Debug\netcoreapp3.0\properties_and_fields.exe
+C:\csharp\ar\properties_and_fields\bin\Debug\netcoreapp3.0\properties_and_fields.deps.json
+C:\csharp\ar\properties_and_fields\bin\Debug\netcoreapp3.0\properties_and_fields.runtimeconfig.json
+C:\csharp\ar\properties_and_fields\bin\Debug\netcoreapp3.0\properties_and_fields.runtimeconfig.dev.json
+C:\csharp\ar\properties_and_fields\bin\Debug\netcoreapp3.0\properties_and_fields.dll
+C:\csharp\ar\properties_and_fields\bin\Debug\netcoreapp3.0\properties_and_fields.pdb
+C:\csharp\ar\properties_and_fields\obj\Debug\netcoreapp3.0\properties_and_fields.csprojAssemblyReference.cache
+C:\csharp\ar\properties_and_fields\obj\Debug\netcoreapp3.0\properties_and_fields.AssemblyInfoInputs.cache
+C:\csharp\ar\properties_and_fields\obj\Debug\netcoreapp3.0\properties_and_fields.AssemblyInfo.cs
+C:\csharp\ar\properties_and_fields\obj\Debug\netcoreapp3.0\properties_and_fields.dll
+C:\csharp\ar\properties_and_fields\obj\Debug\netcoreapp3.0\properties_and_fields.pdb
